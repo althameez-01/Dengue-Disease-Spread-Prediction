@@ -191,14 +191,3 @@ Fork the repo → create a new branch → submit a pull request.
 
 Please follow PEP8 and include concise commit messages.
 
-💬 Acknowledgements
-
-OpenStreetMap Nominatim API
-
-Folium / Leaflet.js
-
-XGBoost
-
-Ransom Forest
-
-Flask
