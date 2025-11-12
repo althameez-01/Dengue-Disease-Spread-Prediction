@@ -53,7 +53,7 @@ Deployment	Gunicorn / Docker (recommended)
 
 Getting Started
 1️⃣ Clone the repository
-git clone https://github.com/althameez-01/dengue-risk-prediction.git
+git clone https://github.com/althameez-01/Dengue-Disease-Spread-Prediction.git
 cd dengue-risk-prediction
 
 2️⃣ Create a virtual environment
