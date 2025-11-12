@@ -54,7 +54,7 @@ Deployment	Gunicorn / Docker (recommended)
 Getting Started
 1️⃣ Clone the repository
 git clone https://github.com/althameez-01/Dengue-Disease-Spread-Prediction.git
-cd dengue-risk-prediction
+cd Dengue-Disease-Spread-Prediction
 
 2️⃣ Create a virtual environment
 python -m venv venv
@@ -126,7 +126,7 @@ Confidence Score: 0.87
 Area: Colombo, Western Province, Sri Lanka
 Map: Red marker displayed at input coordinates with details popup
 
-(Add a screenshot here when uploading to GitHub)
+
 
 Validation & Error Handling
 
